@@ -22,7 +22,7 @@ for i in range(1, len(words_from_dict)):
         dictionary[prev]=[]
     dictionary[prev].append(nexxt)
     prev = nexxt
-print(len(dictionary))
+
 
         
             
